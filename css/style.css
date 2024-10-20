@@ -17,7 +17,8 @@ body {
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
-  color: #6F8BA4;
+  color: 
+  #5f768b;
   font-weight: 400;
 }
 
@@ -668,7 +669,7 @@ a:focus {
 }
 
 .service .service-item {
-  background: #fff;
+  background:  #f5ecec;
   padding: 30px;
   border-radius: 5px;
 }
@@ -692,15 +693,15 @@ a:focus {
 
 .service-block {
   padding: 20px;
-  margin-top: 40px;
+  margin-top: 30px;
   border: 1px solid rgba(0, 0, 0, 0.03);
   box-shadow: 0 0 38px rgba(21, 40, 82, 0.07);
-   background: #f5ebeb;
+  background: #f5ebeb;
 }
 
 .service-block img {
   width: 100%;
-  margin-top: 60px;
+  margin-top: 50px;
   border: 5px solid #fff;
 }
 
