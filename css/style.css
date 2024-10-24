@@ -696,7 +696,7 @@ a:focus {
   margin-top: 30px;
   border: 1px solid rgba(0, 0, 0, 0.03);
   box-shadow: 0 0 38px rgba(21, 40, 82, 0.07);
-  background: #f5ebeb;
+  background: #f8f5f5;
 }
 
 .service-block img {
@@ -870,7 +870,7 @@ a:focus {
   left: 0px;
   position: absolute;
   content: "";
-  background: url("../images/about/why\ choose.jpg") no-repeat 50% 50%;
+  background: url("../images/about/why choose.jpg") no-repeat 50% 50%;
   margin-left: 50px;
 }
 
@@ -1492,5 +1492,6 @@ a:focus {
   cursor: pointer;
   opacity: 1;
 }
+
 
 /*# sourceMappingURL=maps/style.css.map */
