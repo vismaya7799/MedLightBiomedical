@@ -711,6 +711,7 @@ a:focus {
   border: 1px solid rgba(0, 0, 0, 0.03);
   box-shadow: 0 0 38px rgba(21, 40, 82, 0.07);
   background: #ffffff;
+  border-radius: 60px;
 }
 
 .service-block1 img {
