@@ -1508,5 +1508,21 @@ a:focus {
   opacity: 1;
 }
 
+.fa-brands{
+  color: rgb(27, 212, 27);
+  font-size: 70px;
+  padding: 20px;
+  position: fixed;
+  right: 100px;
+  bottom: 24px;
+}
+.wtsup-btn{
+  position: fixed;
+  right:100px;
+  bottom:120px;
+  color: black;
+  font-family: sans-serif;
+}
+
 
 /*# sourceMappingURL=maps/style.css.map */
